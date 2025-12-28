@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/originals/e7/49/97/e7499757bf3a6628a2bbfc74a1df01b8.gif" width="700" />
 </p>
 
-<h1 align="center">👾 Welcome, I'm Nilesh</h1>
+<h1 align="center">👾 Hi, I'm Nilesh</h1>
 
 <p align="center">
   <code>Initializing profile...</code><br>
