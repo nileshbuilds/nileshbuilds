@@ -1,95 +1,36 @@
-<!-- ========================= -->
-<!-- 🔥 PREMIUM GITHUB PROFILE -->
-<!-- ========================= -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0891B2&center=true&vCenter=true&lines=Full-Stack+Engineer;Performance+Optimization+Specialist;Building+at+scale+since+20XX" alt="Typing SVG" />
 
-<h1 align="center">Hi 👋, I'm <Your Name></h1>
-<h3 align="center">🚀 Developer | 💡 Problem Solver | 🌍 Tech Explorer</h3>
+### Systems-focused developer delivering high-impact solutions.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=flat" />
-</p>
+**Current role:** Senior Engineer @ [Company] – Leading backend infrastructure for 10M+ DAU service.
 
----
+**Expertise**
+- Languages: Rust, Go, C++, Python
+- Domains: Distributed systems, low-latency networking, edge computing
+- Tools: Docker, Kubernetes, Prometheus, Linux kernel tuning
 
-## 🧠 About Me  
+**Notable Projects**
 
-- 🔭 Currently working on **cool & meaningful projects**
-- 🌱 Learning **<Tech / Language / Skill>**
-- 💬 Ask me about **<your main skills>**
-- ⚡ Fun fact: **<something interesting about you>**
+| Project | Description | Impact | Tech | Link |
+|---------|-------------|--------|------|------|
+| Edge Inference Optimizer | Reduced latency by 45% on resource-constrained devices | Deployed to 500k+ units | Rust, WebAssembly, TensorFlow Lite | [Repo](https://github.com/yourusername/project1) |
+| Real-time Data Pipeline | Processes 2M events/sec with <10ms p99 latency | Handles peak loads without downtime | Go, Kafka, Redis | [Repo](https://github.com/yourusername/project2) |
+| Open-source Kernel Module | Custom scheduler extension adopted by 3 major distros | 30% better throughput in benchmarks | C, Linux Kernel | [Repo](https://github.com/yourusername/project3) |
 
-> *“Code is not just code — it’s a way to create impact.”*
+<details>
+<summary>More details on contributions</summary>
 
----
+- 500+ contributions to open source (Linux kernel, Rust crates)
+- Maintainer of [popular-crate] (10k+ stars)
+- Speaker at [Conference] 2024–2025
 
-## 🛠️ Tech Stack  
+</details>
 
-### 💻 Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp" />
-</p>
+**Currently building:** Next-gen edge ML runtime.
 
-### 🌐 Frontend  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-</p>
+Open to opportunities in systems/performance engineering.
 
-### ⚙️ Backend & Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,git,github,docker" />
-</p>
+[Email](mailto:you@domain.com) • [LinkedIn](https://linkedin.com/in/you) • [Personal Site](https://yoursite.com)
 
 ---
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
-## 🏆 Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🚀 Featured Projects  
-
-- 🌟 **Project Name** – short description  
-  🔗 Repo: https://github.com/YOUR_USERNAME/PROJECT_NAME  
-
-- 🌟 **Project Name** – short description  
-  🔗 Repo: https://github.com/YOUR_USERNAME/PROJECT_NAME  
-
----
-
-## 🌐 Connect With Me  
-
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>✨ Thanks for visiting my profile — let’s build something awesome together! ✨</b>
-</p>
+*Last updated: Automatically via GitHub Actions*
