@@ -1,5 +1,16 @@
-<h1 align="center">Hi 👋, I'm Nilesh</h1>
-<h3 align="center">Frontend-Focused Developer | Clean Code | Real Impact</h3>
+<!-- ===================== -->
+<!-- ⚡ ANIMATED HEADER -->
+<!-- ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=180&section=header&text=Nilesh%20Builds&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=Frontend+Focused+Developer;Clean+Code+%7C+Modern+UI;HTML+CSS+JavaScript+Java+Python;Building+Skills+That+Scale" />
+</p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nileshbuilds&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -9,53 +20,8 @@
 
 ---
 
-## 👨‍💻 About Me  
+## 👋 About Me
 
-- 🚀 Passionate about building **clean, responsive, and user-focused web apps**
-- 💡 Strong foundation in **Frontend + Programming logic**
-- 🌱 Currently sharpening **JavaScript, Java & Python**
-- 🎯 Goal: Build products that are **simple, fast, and impactful**
-
-> *I value clarity, consistency, and continuous improvement.*
-
----
-
-## 🛠 Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python&perline=5" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nileshbuilds&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nileshbuilds&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-## 🌟 What I Focus On  
-
-- ✨ Writing **readable & maintainable code**
-- 🎨 Clean UI with attention to detail
-- ⚙️ Strong fundamentals before frameworks
-- 📈 Consistent growth as a developer
-
----
-
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://github.com/nileshbuilds">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>Thanks for visiting — feel free to explore my repositories 🚀</b>
-</p>
+```txt
+Developer who values clarity over complexity.
+Focused on fundamentals, clean UI, and scalable thinking.
