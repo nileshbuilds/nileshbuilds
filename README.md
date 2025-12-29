@@ -1,6 +1,6 @@
 <!-- Hacker Style Welcome GIF -->
 <p align="center">
-  <img src="0*GvgWBKBU9ADjoXSG.gif" width="700" height="150" />
+  <img src="https://ibb.co/Rk1vn5d1" width="700" height="150" />
 </p>
  
 <!-- Typing Animation -->
