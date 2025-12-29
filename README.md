@@ -1,6 +1,6 @@
 <!-- Hacker Style Welcome GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e7/49/97/e7499757bf3a6628a2bbfc74a1df01b8.gif" width="700" height="150" />
+  <img src="0*GvgWBKBU9ADjoXSG.gif" width="700" height="150" />
 </p>
  
 <!-- Typing Animation -->
